@@ -1,10 +1,4 @@
-/gun/energy 0.001 MeV
-/run/beamOn 10000
-/gun/energy 1 MeV
-/run/beamOn 10000
-/gun/energy 100 MeV
-/run/beamOn 10000
-/gun/energy 1 GeV
-/run/beamOn 10000
-/gun/energy 500 MeV
-/run/beamOn 10000
+/gun/energy 250 MeV
+
+
+/run/beamOn 1000000
